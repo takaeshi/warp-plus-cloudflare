@@ -28,7 +28,7 @@ good = 0
 bad = 0
 
 
-work_threadss = 200
+work_threadss = 100
 
 referrer = "e836695d-9d8e-4b7c-8450-f8a94978b127" #wrap id
 

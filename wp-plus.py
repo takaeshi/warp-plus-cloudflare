@@ -30,7 +30,7 @@ bad = 0
 
 work_threadss = 200
 
-referrer = "c9e7cc44-3c31-441e-8e17-ce51f7214465" #wrap id
+referrer = "e836695d-9d8e-4b7c-8450-f8a94978b127" #wrap id
 
 def genString(stringLength):
 	try:

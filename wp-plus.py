@@ -28,8 +28,7 @@ good = 0
 bad = 0
 
 
-work_threadss = int(input("Enter the number of threads you want to open (default 100) : ") or "100")
-print('Threads:', work_threadss)
+work_threadss = 200
 
 referrer = "c9e7cc44-3c31-441e-8e17-ce51f7214465" #wrap id
 
